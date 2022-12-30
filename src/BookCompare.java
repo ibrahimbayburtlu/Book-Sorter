@@ -49,7 +49,6 @@ public class BookCompare {
                     "  Author Name : " + num.getBookAuthor()+
                     "  Date : " + num.getBookDate());
             System.out.println("----------------------------------------------------------------------------------------");
-
         }
     }
 }
